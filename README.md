@@ -54,7 +54,10 @@ come with assignments should all be in their respective directories.
 
 ## Installation
 
-More information coming soon
+I am working on getting this extension into stores.
+
+In the mean time, you can sideload it into your browser. Head on over to the
+[releases](https://github.com/KB1RD/bbdl/releases/) page if that applies to you.
 
 ## Building from source
 
