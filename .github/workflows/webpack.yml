@@ -27,6 +27,7 @@ jobs:
     - name: Build
       run: |
         npm install
+        export NODE_ENV=production
         npm run build
     - name: Package
       run: |
